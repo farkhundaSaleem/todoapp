@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/farkhundaSaleem/todoapp.git/static/css/main.89393235.css",
+    "main.js": "/farkhundaSaleem/todoapp.git/static/js/main.5a55efa8.js",
+    "static/js/787.2843ca88.chunk.js": "/farkhundaSaleem/todoapp.git/static/js/787.2843ca88.chunk.js",
+    "index.html": "/farkhundaSaleem/todoapp.git/index.html",
+    "main.89393235.css.map": "/farkhundaSaleem/todoapp.git/static/css/main.89393235.css.map",
+    "main.5a55efa8.js.map": "/farkhundaSaleem/todoapp.git/static/js/main.5a55efa8.js.map",
+    "787.2843ca88.chunk.js.map": "/farkhundaSaleem/todoapp.git/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89393235.css",
+    "static/js/main.5a55efa8.js"
+  ]
+}
